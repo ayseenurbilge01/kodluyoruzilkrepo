@@ -5,7 +5,10 @@ Bu repo [Kodluyoruz](https://app.patika.dev/) Front-End Eğitiminde oluşturduğ
 
 ## Installation
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/ayseenurbilge01/kodluyoruzilkrepo.git`
+
+`
+git clone https://github.com/ayseenurbilge01/kodluyoruzilkrepo.git
+`
 
 ## Usage 
 
@@ -15,7 +18,8 @@ Linux için:
 
 ```
 cd kodluyoruzilkrepo
-code
+code .
+
 ```
 
 ## Contributing
